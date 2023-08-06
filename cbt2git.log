@@ -1,0 +1,5 @@
+2023-08-06 08:02:50.074832 - Initialized conversion of CBT855
+2023-08-06 08:02:50.091969 - Received CBT.V505.FILE855.PDS from FILE855.XMI 
+2023-08-06 08:02:50.093980 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE855.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:02:50.095337 - Found @FILE855.txt (text/plain) in CBT.V505.FILE855.PDS, moved to PDS/@FILE855
+2023-08-06 08:02:50.096933 - De-xmi-ed URIDCV10 to CBT855/docs/URIDCV10.xls
